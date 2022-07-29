@@ -56,8 +56,13 @@ https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Le
      - `Regression Tree`: Regression Tree model is similar to decision tree classifier, it runs like a tree with branches to sub-divide all records in training sets and recursively partition until a simple model can fit them. It is suitable for non-linear regression, when interactions are complicated.
      - `Linear Regression`: Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable.
      -  `Support Vector Regression (SVR)`:  This model improves the flexibility from the linear regression to give an acceptable areas of errors and find a hyperplane to fit the data. 
+   ![MLmodels](https://user-images.githubusercontent.com/77947860/181842422-65bdcd17-42da-4642-a765-2976153a5f21.png)
+
+
 
 - **Dashboard**:  Tableau will be used for the final report and integrated with TABLEAU for a fully functioning and interactive dashboard. Finally, the finished data visualizations will be hosted on Google Slides.
+![Tableau2](https://user-images.githubusercontent.com/77947860/181838164-1f243579-02f0-4db3-8272-21a31a195881.png)
+
 
 ***
 
